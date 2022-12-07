@@ -6,3 +6,7 @@ Javascript, React, Vite, Redux and Tailwind
 
 # API
 ShazamCore from RapidApi.
+
+# Insatallation
+npm intall --> To install all dependencies
+npm run dev
