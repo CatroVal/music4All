@@ -8,5 +8,5 @@ Javascript, React, Vite, Redux and Tailwind
 ShazamCore from RapidApi to get artist info, albums, tracks, etc.
 
 # Insatallation
-npm intall --> To install all dependencies
-npm run dev
+** npm install --> To install all dependencies
+** npm run dev
